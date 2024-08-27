@@ -1,0 +1,2 @@
+## Giới thiệu
+Đồ án này tập trung vào việc phát triển một mô hình học sâu (deep learning) sử dụng kiến trúc Sequential để phân loại các bệnh về mắt từ các hình ảnh y khoa. Với sự gia tăng số lượng bệnh nhân và nhu cầu chẩn đoán nhanh chóng, mô hình này sẽ giúp tự động hóa và nâng cao độ chính xác trong việc phát hiện các bệnh về mắt. Dữ liệu hình ảnh sẽ được thu thập, tiền xử lý và sử dụng để huấn luyện mô hình, nhằm tạo ra một công cụ hỗ trợ hiệu quả cho các bác sĩ trong quá trình chẩn đoán và điều trị.
